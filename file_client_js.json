@@ -1,0 +1,40 @@
+{
+  "key_with_sentences": [
+    {
+      "Client": "Bonjour, je voudrais savoir quel est le solde de mon compte.",
+      "Chatbot": "Bonjour ! Pour consulter votre solde, je vais avoir besoin de vérifier votre identité. Pouvez-vous s'il vous plaît entrer votre numéro de compte ou votre identifiant client ?"
+    },
+    {
+      "Client": "Voici mon numéro de compte : 123456789",
+      "Chatbot": "Merci. Je vais vérifier cela pour vous… Un instant, s'il vous plaît. Votre solde actuel est de 1 250,75 €."
+    },
+    {
+      "Client": "Parfait, merci. J'aimerais aussi connaître les conditions de votre prêt immobilier.",
+      "Chatbot": "Bien sûr ! Notre prêt immobilier offre des taux d'intérêt compétitifs en fonction de la durée et du montant. Pour vous donner une estimation plus précise, pouvez-vous me dire la somme que vous souhaitez emprunter et la durée du prêt ?"
+    },
+    {
+      "Client": "Je voudrais emprunter 200 000 € sur 20 ans.",
+      "Chatbot": "Très bien. Selon nos taux actuels, un prêt de 200 000 € sur 20 ans aurait un taux d'intérêt annuel de 1,5 %, avec des mensualités d’environ 960,68 €. Souhaitez-vous plus de détails sur les modalités ou parler à un conseiller ?"
+    },
+    {
+      "Client": "Non, je vais réfléchir. Mais j’ai un problème avec ma carte bancaire. Elle est bloquée.",
+      "Chatbot": "Je suis désolé d'apprendre cela. Pour résoudre ce problème, pouvez-vous me confirmer si vous avez récemment effectué une opération suspecte ou si vous avez perdu votre carte ? Je peux également vous aider à la débloquer ou à la remplacer si nécessaire."
+    },
+    {
+      "Client": "Non, je n’ai rien fait de spécial. Elle s'est bloquée après une tentative de paiement en ligne.",
+      "Chatbot": "Cela peut arriver en cas de blocage de sécurité. Je vais procéder à la réinitialisation de votre carte. Un instant, s’il vous plaît. Votre carte a été débloquée avec succès. Vous devriez maintenant pouvoir l’utiliser à nouveau. Si vous rencontrez d'autres problèmes, n'hésitez pas à me le faire savoir."
+    },
+    {
+      "Client": "Merci beaucoup ! Une dernière question : comment puis-je vérifier les frais associés à mon compte bancaire ?",
+      "Chatbot": "Vous pouvez consulter les frais de votre compte dans la section 'Tarifs' de votre espace client en ligne. Si vous préférez, je peux vous fournir un résumé des frais les plus courants associés à votre compte. Souhaitez-vous cela ?"
+    },
+    {
+      "Client": "Oui, ce serait super.",
+      "Chatbot": "Voici un résumé des frais courants pour un compte courant standard : Frais de tenue de compte : 2 € par mois, Frais de retrait à un guichet automatique hors réseau : 1,50 € par retrait, Frais de virement international : 10 € par virement."
+    },
+    {
+      "Client": "Non, c'est tout. Merci encore pour votre aide.",
+      "Chatbot": "Avec plaisir ! Si vous avez besoin d'aide à l'avenir, je suis là pour vous. Passez une excellente journée !"
+    }
+  ]
+}
